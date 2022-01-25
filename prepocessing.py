@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  6 13:58:32 2021
-
-@author: ARDI
-"""
-
 import os
 import json
 from shutil import copyfile
