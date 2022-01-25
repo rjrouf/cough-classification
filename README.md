@@ -1,7 +1,7 @@
 # cough-classification
 project untuk mendeteksi penyakit melalui suara batuk
 
-## Tentang data
+## About data
 Data coswara dapat diunduh [`disini`](https://github.com/iiscleap/Coswara-Data).
 Data diekstrak menggunakan script [`extract_data.py`](https://github.com/iiscleap/Coswara-Data/blob/master/extract_data.py). Script tersebut hanya bisa dijalankan pada OS Linux.
 Kemudian data hasil ekstrak dikelompokkan kedalam kategori negatif dan positif serta perbaikan label menggunakan script [`prepocessing-labelling.py`](https://github.com/rjrouf/cough-classification/blob/master/prepocessing-labelling.py)
